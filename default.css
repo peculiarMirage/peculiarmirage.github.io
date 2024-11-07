@@ -28,9 +28,8 @@ nav {
 
 nav .divimg {
 	display: inline-block;
-	width: 16px;
-	height: 16px;
-	margin: 0 6px;
+	width: 18px;
+	height: 18px;
 	padding: 0 !important;
 	background-image: url("/assets/nav_icon.gif");
 	background-repeat: no-repeat;
@@ -38,6 +37,7 @@ nav .divimg {
 }
 
 .topnav {
+    font-family: 'Courier New';
     padding: 14px 16px;
     overflow: hidden;
 }
