@@ -1,3 +1,7 @@
+@font-face {
+    font-family: 'terezi_pyrope';
+    src: url(https://peculiarmirage.github.io/fonts/terezi_pyrope/terezi_pyrope.woff);
+}
 
 body {
   background-color: rgb(0, 126, 52);
