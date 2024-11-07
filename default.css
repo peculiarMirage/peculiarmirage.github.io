@@ -1,6 +1,8 @@
 @font-face {
-    font-family: 'terezi_pyrope';
-    src: url(https://peculiarmirage.github.io/fonts/terezi_pyrope/terezi_pyrope.woff);
+    font-family: "terezi_pyrope";
+    src: url("https://peculiarmirage.github.io/terezi_pyrope.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 
 body {
