@@ -15,8 +15,30 @@ p {
     font-size: 24pt;
 }
 
-.topnav {
+nav {
+    font-weight: bold;
+    font-size: x-small;
+    text-align: center;
+    height: 15px;
+    padding: 2px;
+    text-transform: uppercase;
     background-color: #11c900;
+    color: #ffffff;
+}
+
+nav .topnav {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	margin: 0 6px;
+	padding: 0 !important;
+	background-image: url("/assets/nav_icon.gif");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.topnav {
+    padding: 14px 16px;
     overflow: hidden;
 }
 
@@ -24,7 +46,6 @@ p {
     float: left;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 16px;
     text-decoration: none;
     font-size: 36px;
 }
