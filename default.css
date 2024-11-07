@@ -3,8 +3,21 @@
     src: url(https://peculiarmirage.github.io/fonts/terezi_pyrope/terezi_pyrope.woff);
 }
 
+h1 {
+    font-size: 40px;
+}
+  
+h2 {
+    font-size: 30px;
+}
+  
+p {
+    font-size: 16px;
+}
+
 body {
   background-color: rgb(0, 126, 52);
   color: white;
   font-family: 'terezi_pyrope';
 }
+
